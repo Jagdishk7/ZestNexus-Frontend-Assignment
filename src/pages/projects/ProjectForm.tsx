@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import { Modal, Form, Input, DatePicker, Select } from "antd";
 import type { Project } from "../../store/projectsSlice";
 import { addProject, editProject } from "../../store/projectsSlice";
