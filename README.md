@@ -83,7 +83,7 @@ src/
 │   └── projects/       # Dashboard, details, and form
 ├── store/              # Redux slices and store setup
 └── main.tsx, App.tsx   # Entry & routing
-
+```
 
 ---
 
