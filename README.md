@@ -72,16 +72,17 @@ Password: 1234
 
 ## 📂 Folder Structure
 
+```text
 src/
 ├── components/
-│ ├── board/ # Kanban Board
-│ └── table/ # Project Table
-├── layout/ # Dashboard layout wrapper
+│   ├── board/          # Kanban Board
+│   └── table/          # Project Table
+├── layout/             # Dashboard layout wrapper
 ├── pages/
-│ ├── auth/ # Login page
-│ └── projects/ # Dashboard, details, and form
-├── store/ # Redux slices and store setup
-└── main.tsx, App.tsx # Entry & routing
+│   ├── auth/           # Login page
+│   └── projects/       # Dashboard, details, and form
+├── store/              # Redux slices and store setup
+└── main.tsx, App.tsx   # Entry & routing
 
 
 ---
